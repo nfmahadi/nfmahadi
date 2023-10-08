@@ -13,7 +13,7 @@ I am **Mahadi Hasan.** I can design websites. Interested in Tech. Available for 
 
 <br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-mahadixyz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahadixyz/)](https://www.linkedin.com/in/mahadixyz/)
+[![Linkedin: mahadixyz](https://img.shields.io/badge/-mahadixyz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahadixyz/)](https://www.linkedin.com/in/mahadixyz/)
 [![Twitter: mahadixyz](https://img.shields.io/twitter/follow/mahadixyz?style=social)](https://twitter.com/mahadixyz)
 [![GitHub: mahadixyz](https://img.shields.io/github/followers/mahadixyz?label=follow&style=social)](https://github.com/mahadixyz)
 
@@ -49,8 +49,6 @@ I am **Mahadi Hasan.** I can design websites. Interested in Tech. Available for 
 <br>
 
 # Github Statistics
-
-![image title](https://rushter.com/counter.svg)
 
 ![Visitor](https://komarev.com/ghpvc/?username=mahadixyz&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/mahadixyz)
