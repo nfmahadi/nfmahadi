@@ -51,7 +51,7 @@ I am **Mahadi Hasan.** I can design websites. Interested in Tech. Available for 
 # Github Statistics
 
 ![Visitor](https://komarev.com/ghpvc/?username=mahadixyz&color=blueviolet&style=flat-square) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/mahadixyz)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/mahadixyz/mahadixyz?style=flat-square&color=blueviolet)
