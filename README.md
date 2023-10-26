@@ -6,16 +6,16 @@
 
 <br>
 
-I am **Mahadi Hasan.** I can design websites. Interested in Tech. Available for new opportunity. 
+I am **Mahadi Hasan.** I can design websites. Interested in Tech. Available for new opportunities. 
 
 - 😎 Name pronunciation: **May-Hey-Dee**
 - 😄 Pronouns: He/His
 
 <br>
 
-[![Linkedin: mahadixyz](https://img.shields.io/badge/-mahadixyz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahadixyz/)](https://www.linkedin.com/in/mahadixyz/)
-[![Twitter: mahadixyz](https://img.shields.io/twitter/follow/mahadixyz?style=social)](https://twitter.com/mahadixyz)
-[![GitHub: mahadixyz](https://img.shields.io/github/followers/mahadixyz?label=follow&style=social)](https://github.com/mahadixyz)
+[![Linkedin: nfmahadi](https://img.shields.io/badge/-nfmahadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nfmahadi/)](https://www.linkedin.com/in/mahadixyz/)
+[![Twitter: nfmahadi](https://img.shields.io/twitter/follow/nfmahadi?style=social)](https://twitter.com/nfmahadi)
+[![GitHub: nfmahadi](https://img.shields.io/github/followers/nfmahadi?label=follow&style=social)](https://github.com/nfmahadi)
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -24,8 +24,8 @@ I am **Mahadi Hasan.** I can design websites. Interested in Tech. Available for 
 - 🌱 I’m currently learning *MERN Stack*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *Java/React*
-- 💬 Ask me about anything at [@mahadixyz](https://twitter.com/mahadixyz)
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mahadixyz)
+- 💬 Ask me about anything at [@mahadixyz](https://twitter.com/nfmahadi)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nfmahadi)
 
 
 ## Skills
@@ -50,14 +50,14 @@ I am **Mahadi Hasan.** I can design websites. Interested in Tech. Available for 
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=mahadixyz&color=blueviolet&style=flat-square) 
+![Visitor](https://komarev.com/ghpvc/?username=nfmahadi&color=blueviolet&style=flat-square) 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
-![Last-commit](https://img.shields.io/github/last-commit/mahadixyz/mahadixyz?style=flat-square&color=blueviolet)
+![Last-commit](https://img.shields.io/github/last-commit/nfmahadi/nfmahadi?style=flat-square&color=blueviolet)
 
-![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadixyz&show_icons=true&theme=dracula)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadixyz&theme=dracula)
+![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfmahadi&show_icons=true&theme=dracula)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nfmahadi&theme=dracula)
 
 
 
