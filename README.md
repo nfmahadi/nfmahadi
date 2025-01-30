@@ -6,10 +6,8 @@
 [![Twitter: nfmahadi](https://img.shields.io/twitter/follow/nfmahadi?style=social)](https://twitter.com/nfmahadi)
 [![GitHub: nfmahadi](https://img.shields.io/github/followers/nfmahadi?label=follow&style=social)](https://github.com/nfmahadi)
 
-<img src="https://komarev.com/ghpvc/?username=nfmahadi&label=Profile%20views&color=brightgreen&style=plastic" alt=" Github profile views of nfmahadi" /> 
-
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning   <a href="https://github.com/nfmahadi/JavaScript-journey" target="blank">JavaScript</a>
+- 🌱 I’m currently learning   <a href="https://github.com/nfmahadi/JavaScript-journey" target="_blank">JavaScript</a>
 - 💬 My thoughts are live on [@mahadixyz](https://twitter.com/nfmahadi)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nfmahadi)
 - 😄 Pronouns: He/Him
