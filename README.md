@@ -42,4 +42,4 @@
 ![Last-commit](https://img.shields.io/github/last-commit/nfmahadi/nfmahadi?style=flat-square&color=blueviolet)
 
 ![Mahadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfmahadi&show_icons=true&theme=dracula)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nfmahadi&theme=dracula)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nfmahadi&layout=pie&theme=dracula)
